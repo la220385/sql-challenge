@@ -1,8 +1,8 @@
-﻿title_id,title,,
-s0001,Staff,5,18
-s0002,Senior Staff,12,
-e0001,Assistant Engineer,18,
-e0002,Engineer,8,
-e0003,Senior Engineer,15,
-e0004,Technique Leader,16,
-m0001,Manager,7,
+﻿title_id,title
+s0001,Staff
+s0002,Senior Staff
+e0001,Assistant Engineer
+e0002,Engineer
+e0003,Senior Engineer
+e0004,Technique Leader
+m0001,Manager
