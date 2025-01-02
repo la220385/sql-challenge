@@ -73,7 +73,7 @@ The following queries are included in the `queries.sql` file:
 9. **SQLite Cheatsheet**: [https://cheatography.com/davechild/cheat-sheets/sqlite/](https://cheatography.com/davechild/cheat-sheets/sqlite/)
 
 ## ERD Image
-The ERD image (`Entity Relationship Diagram.png`) visually explains the relationships between the tables.
+<img width="1737" alt="Entity Relationship Diagram" src="https://github.com/user-attachments/assets/840aac69-09ef-4583-b11f-c1e8a250b057" />
 
 ## Files in the Repository
 - `Entity Relationship Diagram.png`: Visual representation of the database schema.
