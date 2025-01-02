@@ -53,13 +53,6 @@ The following queries are included in the `queries.sql` file:
 7. List employees in \"Sales\" and \"Development\" departments.
 8. Frequency count of employees sharing the same last name.
 
-## Steps to Run the Project
-1. **Database Setup:**
-   - Use the `Table_schema.sql` file to create the database schema.
-   - Import the data into the database using SQLite tools or scripts.
-2. **Run Queries:**
-   - Use the `queries.sql` file to run predefined queries and extract insights.
-
 ## Resources Used
 1. **SQLite Documentation**: [https://sqlite.org/docs.html](https://sqlite.org/docs.html)
 2. **DB Browser for SQLite**: [https://sqlitebrowser.org/](https://sqlitebrowser.org/)
